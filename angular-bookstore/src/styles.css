@@ -39,3 +39,10 @@ body {
   font-family: 'Robot Mono';
 }
 */
+
+a{
+  cursor: pointer;
+}
+.pagination{
+  float: right;
+}
